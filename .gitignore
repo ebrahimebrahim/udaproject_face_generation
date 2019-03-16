@@ -1,3 +1,18 @@
 .ipynb_checkpoints/
 processed_celeba_small/
+*.pkl
+*.pt
+__pycache__/
+
+dlnd_face_generation01.html
+dlnd_face_generation02.html
+dlnd_face_generation10.html
+dlnd_face_generation12.html
+dlnd_face_generation13.html
+dlnd_face_generation15.html
+dlnd_face_generation16.html
+dlnd_face_generation16a.html
+dlnd_face_generation16b.html
+dlnd_face_generation16c.html
+notes.txt
 
